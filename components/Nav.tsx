@@ -42,7 +42,7 @@ export default function Nav() {
                 );
              })}
              <a 
-                href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftalkjs%2Ftalkjs-vercel" 
+                href="https://vercel.com/new/clone?repository-url=https://github.com/talkjs/talkjs-nextjs-starter&env=NEXT_PUBLIC_TALKJS_APP_ID&envDescription=Your%20TalkJS%20App%20ID&envLink=https://talkjs.com/dashboard" 
                 rel="noopener" 
                 target="_blank">
                 <img alt="Deploy with Vercel" className="h-8 w-auto" src="/button.svg"/>
@@ -82,7 +82,7 @@ export default function Nav() {
       );
     })}
     <a
-      href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftalkjs%2Ftalkjs-vercel"
+      href="https://vercel.com/new/clone?repository-url=https://github.com/talkjs/talkjs-nextjs-starter&env=NEXT_PUBLIC_TALKJS_APP_ID&envDescription=Your%20TalkJS%20App%20ID&envLink=https://talkjs.com/dashboard"
       rel="noopener"
       target="_blank"
     >

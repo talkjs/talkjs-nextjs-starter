@@ -34,7 +34,7 @@
 
 2. Deploy this starter kit to Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/talkjs/talkjs-vercel&env=NEXT_PUBLIC_TALKJS_APP_ID&envDescription=Your%20TalkJS%20App%20ID&envLink=https://talkjs.com/dashboard)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/talkjs/talkjs-nextjs-starter&env=NEXT_PUBLIC_TALKJS_APP_ID&envDescription=Your%20TalkJS%20App%20ID&envLink=https://talkjs.com/dashboard)
 
 3. When prompted, add your TalkJS App ID as a value for the environment variable `NEXT_PUBLIC_TALKJS_APP_ID`.
 
