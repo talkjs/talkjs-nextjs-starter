@@ -8,7 +8,7 @@ import XIcon from "@/components/Icons/XIcon";
 export default function Page() {
   const resources = [
     { label: "Docs", href: "https://talkjs.com/docs", icon: <DocsIcon className="w-4 h-4"/> },
-    { label: "GitHub", href: "https://github.com/talkjs/talkjs-vercel", icon: <GitHubIcon className="w-4 h-4"/> },
+    { label: "GitHub", href: "https://github.com/talkjs/talkjs-nextjs-starter", icon: <GitHubIcon className="w-4 h-4"/> },
     { label: "Go to TalkJS.com", href: "https://talkjs.com", icon: <GlobeIcon className="w-4 h-4"/> },
   ];
 

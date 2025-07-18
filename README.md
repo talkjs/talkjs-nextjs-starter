@@ -44,8 +44,8 @@
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/talkjs/talkjs-vercel
-cd talkjs-vercel
+git clone https://github.com/talkjs/talkjs-nextjs-starter
+cd talkjs-nextjs-starter
 ```
 
 ### 2. Install dependencies

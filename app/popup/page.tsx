@@ -18,7 +18,7 @@ const popupResources = [
     { label: "Authentication", href: "https://talkjs.com/docs/Features/Security_Settings/Authentication/", icon: <ShieldIcon className="w-4 h-4"/> },
   {
     label: "GitHub",
-    href: "https://github.com/taljs/talkjs-vercel",
+    href: "https://github.com/talkjs/talkjs-nextjs-starter",
     icon: <GitHubIcon className="w-4 h-4" />,
   },
   {

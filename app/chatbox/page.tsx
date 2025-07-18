@@ -10,7 +10,7 @@ import ResourceLinks from "@/components/ResourceLinks";
 const chatboxResources = [
   { label: "API Reference", href: "https://talkjs.com/docs/Reference/React_SDK/Components/Chatbox/", icon: <DocsIcon className="w-4 h-4" /> },
   { label: "Authentication", href: "https://talkjs.com/docs/Features/Security_Settings/Authentication/", icon: <ShieldIcon className="w-4 h-4"/> },
-  { label: "GitHub", href: "https://github.com/taljs/talkjs-vercel", icon: <GitHubIcon className="w-4 h-4" /> },
+  { label: "GitHub", href: "https://github.com/talkjs/talkjs-nextjs-starter", icon: <GitHubIcon className="w-4 h-4" /> },
   { label: "Go to TalkJS.com", href: "https://talkjs.com", icon: <GlobeIcon className="w-4 h-4" /> },
 ];
 
